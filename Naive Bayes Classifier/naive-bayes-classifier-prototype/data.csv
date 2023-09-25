@@ -1,0 +1,15 @@
+Data,Blood Pressure,Fever,Diabetes,Vomit,Suffering from disease Z
+1,High,High,Yes,No,No
+2,High,High,Yes,Yes,No
+3,Low,High,Yes,No,Yes
+4,Normal,Mild,Yes,No,Yes
+5,Normal,No fever,No,No,Yes
+6,Normal,No fever,No,Yes,No
+7,Low,No fever,No,Yes,Yes
+8,High,Mild,Yes,No,No
+9,High,No fever,No,No,Yes
+10,Normal,Mild,No,No,Yes
+11,High,Mild,No,Yes,Yes
+12,Low,Mild,Yes,Yes,Yes
+13,Low,High,No,No,Yes
+14,Normal,Mild,Yes,Yes,No
